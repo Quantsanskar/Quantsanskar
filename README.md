@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is SANSKAR BHARDWAJ and I'm a FULL STACK WEB DEVELOPER, from DELHI</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning DSA and COMPETITIVE PROGRAMMING , also providing Web Development Services<br>🎯 Goals: Want to establish my startup till 2030<br>🎲 Fun fact: I m in love with someone for so many years now. Still, so many love it so sometimes I feel jealous jk, and it is MUSIC!!!</p>
 
 ###
 
