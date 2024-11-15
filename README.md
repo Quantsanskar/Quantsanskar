@@ -1,16 +1,4 @@
-<style>
-.text-primary { color: #3b82f6; }
-.bg-primary { background-color: #3b82f6; }
-.rounded { border-radius: 0.5rem; }
-.shadow { box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); }
-.hover\:shadow-lg:hover { box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
-.p-4 { padding: 1rem; }
-.mb-4 { margin-bottom: 1rem; }
-.flex { display: flex; }
-.items-center { align-items: center; }
-.justify-between { justify-content: space-between; }
-.space-x-4 > * { margin-right: 1rem; }
-</style>
+
 
 <div class="bg-primary text-white p-4 rounded shadow mb-4">
   <h1 class="text-3xl font-bold">Hey 👋 What's up?</h1>
