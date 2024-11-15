@@ -1,5 +1,3 @@
-
-
 <div class="bg-primary text-white p-4 rounded shadow mb-4">
   <h1 class="text-3xl font-bold">Hey 👋 What's up?</h1>
   <p>My name is SANSKAR BHARDWAJ and I'm a FULL STACK WEB DEVELOPER, from DELHI</p>
@@ -24,9 +22,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
   </div>
+</div>
+
+<div class="flex items-center mb-4">
+  <div class="bg-green rounded-full w-4 h-4 mr-2"></div>
+  <span>Total Activities: 2,548</span>
 </div>
 
 <div class="bg-primary text-white p-4 rounded shadow hover:shadow-lg">
