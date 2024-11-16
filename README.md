@@ -31,8 +31,7 @@
 <div class="bg-primary text-white p-4 rounded shadow hover:shadow-lg">
   <h2 class="text-2xl font-bold mb-2">My GitHub Stats</h2>
   <div class="flex items-center justify-between">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanskar-b&show_icons=true&theme=radical" alt="Sanskar's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar-b&theme=radical" alt="Sanskar's GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Quantsanskar&show_icons=true&theme=radical" alt="Sanskar's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantsanskar&theme=radical" alt="Sanskar's GitHub streak" />
   </div>
 </div>
-#
