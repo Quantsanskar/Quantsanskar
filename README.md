@@ -38,7 +38,7 @@
 ## Connect with me:
 
 <a href="https://linktr.ee/your_username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Linktree logo" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png&color=000000" alt="Linktree logo" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/your_username/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="40" />
