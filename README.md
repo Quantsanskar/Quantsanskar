@@ -44,10 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="40" />
 </a>
 <a href="https://medium.com/@your_username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Medium logo" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000" alt="Medium logo" width="40" />
 </a>
 <a href="https://leetcode.com/your_username/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="LeetCode logo" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode logo" width="40" />
 </a>
 
 
