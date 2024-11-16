@@ -35,6 +35,22 @@
   </div>
 </div>
 
+## Connect with me:
+
+<a href="https://linktr.ee/your_username" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Linktree logo" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/your_username/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="40" />
+</a>
+<a href="https://medium.com/@your_username" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Medium logo" width="40" />
+</a>
+<a href="https://leetcode.com/your_username/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="LeetCode logo" width="40" />
+</a>
+
+
 
 <div class="bg-primary text-white p-4 rounded shadow hover:shadow-lg">
   <h2 class="text-2xl font-bold mb-2">My GitHub Stats</h2>
