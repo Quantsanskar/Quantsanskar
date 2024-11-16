@@ -37,8 +37,8 @@
 
 
 <div class="mb-4">
-  <h2 class="text-2xl font-bold mb-2">Connect with me</h2>
-  <div class="flex items-center space-x-4">
+<!--   <h2 class="text-2xl font-bold mb-2">Connect with me</h2> -->
+<!--   <div class="flex items-center space-x-4">
     <a href="https://linktr.ee/your_username" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png&color=000000" alt="Linktree logo" width="40" />
     </a>
@@ -51,7 +51,7 @@
     <a href="https://leetcode.com/your_username/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode logo" width="40" />
     </a>
-  </div>
+  </div> -->
 </div>
 
 
