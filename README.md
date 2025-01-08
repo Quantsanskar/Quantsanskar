@@ -72,7 +72,7 @@
 </div>
 
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/${your-username}/${your-username}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/${Quantsanskar}/${Quantsanskar}/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 Activity Graph
 [![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Quantsanskar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
