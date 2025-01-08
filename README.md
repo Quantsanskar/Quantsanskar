@@ -83,12 +83,16 @@
 </div>
 
 ## 📈 Contribution Graph
-[![Sanskar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Quantsanskar&custom_title=Sanskar's%20Contribution%20Graph&theme=radical&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&area=true)](https://github.com/Quantsanskar/github-readme-activity-graph)
+[![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Quantsanskar&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Quantsanskar/Quantsanskar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantsanskar/Quantsanskar/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantsanskar/Quantsanskar/main/dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quantsanskar/Quantsanskar/main/dist/github-snake.svg">
+</picture>
 
 ---
 <div align="center">
