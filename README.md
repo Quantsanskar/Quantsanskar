@@ -58,24 +58,37 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quantsanskar&show_icons=true&theme=radical" alt="Sanskar's GitHub stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantsanskar&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantsanskar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/Quantsanskar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantsanskar&theme=radical" alt="Sanskar's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Quantsanskar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quantsanskar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantsanskar&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Quantsanskar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantsanskar&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Quantsanskar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Quantsanskar&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/${Quantsanskar}/${Quantsanskar}/blob/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Graph
+[![Sanskar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Quantsanskar&custom_title=Sanskar's%20Contribution%20Graph&theme=radical&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&area=true)](https://github.com/Quantsanskar/github-readme-activity-graph)
 
-## 📈 Activity Graph
-[![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Quantsanskar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Quantsanskar/Quantsanskar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 <div align="center">
