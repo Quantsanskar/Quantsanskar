@@ -190,12 +190,6 @@
 - **Technical Mentoring** and community building
 
 ### 📞 Connect With Me:
-- 💬 **DM me** for technical collaborations and opportunities
-- 🎯 **Join** Quakity, Conventus, or BuildersSpace communities
-- 📚 **Follow** my journey in emerging technologies
-- 🚀 **Partner** with me on your next big project
-
-### 📞 Connect With Me:
 - 💬 **DM me** for Web3 collaborations and speaking opportunities
 - 📚 **Follow** my educational content on blockchain development
 - 🚀 **Partner** with me on your next Web3 or Web2 venture
