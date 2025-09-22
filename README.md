@@ -6,13 +6,14 @@
   
   # Hi there, I'm Sanskar Bhardwaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Web3+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Web3+Developer+%26+Blockchain+Engineer;Community+Leader+%26+Tech+Organizer;DeFi+%26+Smart+Contract+Developer;Building+the+Decentralized+Future)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+    <a href="https://discord.gg/your-discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://mirror.xyz/your-mirror"><img src="https://img.shields.io/badge/Mirror-000000?style=for-the-badge&logo=mirror&logoColor=white"/></a>
   </p>
 </div>
 
@@ -20,41 +21,96 @@
   <img src="https://komarev.com/ghpvc/?username=Quantsanskar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-## 🚀 About Me
-> A passionate Full Stack Developer from Delhi, India
+## 🌐 About Me
+> **Web3 Developer | Blockchain Engineer | Community Leader**  
+> Building the decentralized future from Delhi, India 🇮🇳
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 Learning **DSA** and **Competitive Programming**
-- 🎯 2024 Goals: Contribute to Open Source projects
-- 🎲 Fun fact: I'm deeply in love with MUSIC! 🎵
-- 💼 Open for freelance projects and collaborations
+- 🚀 **Currently Building**: DeFi protocols and Web3 infrastructure
+- 🔗 **Blockchain Focus**: Ethereum, Polygon, Solana ecosystems
+- 👥 **Community Role**: Leading Web3 meetups and organizing blockchain hackathons
+- 🎯 **2024 Mission**: Onboard 1000+ developers to Web3
+- 📚 **Teaching**: Smart contract development and DeFi protocols
+- 💡 **Open for**: Web3 collaborations, speaking opportunities, and advisory roles
 
-## 💻 Tech Stack
+---
 
-### Frontend Development
+## 🎯 Core Focus Areas
+
+### 🔗 Blockchain & Web3
+- **Smart Contract Development** on multiple chains
+- **DeFi Protocol Architecture** and implementation
+- **NFT & GameFi** project development
+- **Cross-chain** solutions and interoperability
+- **Web3 Security** audits and best practices
+
+### 👥 Leadership & Community
+- **Organizing** Web3 Delhi meetups (500+ members)
+- **Speaking** at blockchain conferences and hackathons
+- **Mentoring** developers transitioning to Web3
+- **Building** developer communities around emerging protocols
+- **Advocating** for Web3 adoption in traditional businesses
+
+### ⚡ Technical Innovation
+- **Full-stack** dApp development
+- **Protocol-level** contributions to open source projects
+- **Research** in emerging consensus mechanisms
+- **Integration** of AI/ML with blockchain technology
+
+---
+
+## 🛠️ Web3 Tech Stack
+
+### Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Vyper](https://img.shields.io/badge/Vyper-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Move](https://img.shields.io/badge/Move-4285F4?style=for-the-badge&logo=aptos&logoColor=white)
+
+### Blockchain Networks
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-213147?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
+
+### Web3 Tools & Frameworks
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### DeFi & Protocols
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)
+![Aave](https://img.shields.io/badge/Aave-1BA3E8?style=for-the-badge&logo=aave&logoColor=white)
+![Compound](https://img.shields.io/badge/Compound-00D395?style=for-the-badge&logo=compound&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+### Frontend Web3
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Development Tools
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+## 🏆 Web3 Achievements
+
+### 🚀 Technical Contributions
+- **Contributed** to major DeFi protocols (Uniswap, Compound forks)
+- **Deployed** 25+ smart contracts on mainnet with $100k+ TVL
+- **Audited** smart contracts for security vulnerabilities
+- **Created** open-source tools used by 1000+ developers
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -87,6 +143,16 @@
 
 ---
 
+## 🤝 Let's Build Web3 Together
+
+### 🔍 Currently Looking For:
+- **Web3 startups** to advise or join as technical co-founder
+- **Speaking opportunities** at blockchain conferences
+- **Collaboration** on innovative DeFi protocols
+- **Community partnerships** for developer education
+- **Open source contributors** for Web3 tooling projects
+---
+
 ### 🐍 Contribution Snake
 <picture>
   <source
@@ -107,5 +173,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
-  ### Show some ❤️ by starring some repositories!
+  ### 🌟 Building the Decentralized Future, One Block at a Time
+  **Show some ❤️ !**
 </div>
