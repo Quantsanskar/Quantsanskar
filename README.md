@@ -9,11 +9,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Full+Stack+Developer+%26+Blockchain+Engineer;AI%2FML+Engineer+%26+Cybersecurity+Enthusiast;Community+Leader+%26+Tech+Organizer;Building+the+Future+of+Technology)](https://git.io/typing-svg)
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://discord.gg/your-discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://mirror.xyz/your-mirror"><img src="https://img.shields.io/badge/Mirror-000000?style=for-the-badge&logo=mirror&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sanskarbhardwaj-618b82244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://x.com/lunacy_sanskar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:sanskarsrdav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 </div>
 
